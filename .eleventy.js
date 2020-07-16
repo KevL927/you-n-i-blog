@@ -1,12 +1,12 @@
-module.exports = eleventyConfig => {
-  return {
-    pathPrefix: BASEURL,
+// module.exports = eleventyConfig => {
+//   return {
+//     pathPrefix: BASEURL,
 
-    dir: {
-        input: 'site',
-        output: 'dist',
-        includes: 'includes',
-        data: 'globals',
-    }
-  }
-}
+//     dir: {
+//         input: 'site',
+//         output: 'dist',
+//         includes: 'includes',
+//         data: 'globals',
+//     }
+//   }
+// }
