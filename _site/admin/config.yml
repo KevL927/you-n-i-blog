@@ -23,4 +23,4 @@ collections:
           dateFormat: 'MMMM D, YYYY',
           timeFormat: false
         }
-      - {label: "Body", name: "content", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
