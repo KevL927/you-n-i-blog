@@ -1,6 +1,6 @@
 module.exports = eleventyConfig => {
   return {
-    pathPrefix: "/subfolder/",
+    pathPrefix: "/site/kevl927/you-n-i-blog/",
 
     dir: {
         input: 'site',
