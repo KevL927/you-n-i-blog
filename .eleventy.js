@@ -1,3 +1,3 @@
-module.exports = {
-  pathPrefix: BASEURL
-};
+// module.exports = {
+//   pathPrefix: BASEURL
+// };
