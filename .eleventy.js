@@ -1,6 +1,6 @@
 module.exports = eleventyConfig => {
   return {
-    pathPrefix: "/site/kevl927/you-n-i-blog/",
+    pathPrefix: BASEURL,
 
     dir: {
         input: 'site',
